@@ -1,4 +1,3 @@
--- PostgreSQL 18.4 Backup, Restore, and PITR Lab
 -- Seed data for departments, imaging devices, initial orders, and recovery baseline.
 
 -- Validation note:
