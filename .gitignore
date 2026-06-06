@@ -1,0 +1,15 @@
+# PostgreSQL generated/runtime files
+*.pid
+*.log
+*.backup
+*.dump
+
+# Local backup folders
+base_backups/
+restore_cluster/
+wal_archive/
+logical_backups/
+
+# OS files
+.DS_Store
+Thumbs.db
